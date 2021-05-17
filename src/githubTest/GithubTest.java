@@ -9,6 +9,7 @@ public class GithubTest {
 		// TODO Auto-generated method stub
 		System.out.println("github test");
 		System.out.println("github test");
+		System.out.println("github test2");
 	}
 
 }
